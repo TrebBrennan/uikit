@@ -15,7 +15,7 @@
 
 ## Versions
 
-* [v0.1.2 - Changed links to use text-decoration underline](v012)
+* [v0.1.2 - Changed links to use text-decoration underline, system fonts](v012)
 * [v0.1.1 - Fixed a11y contrast issue](v011)
 * [v0.1.0 - 💥 Initial version](v010)
 
@@ -28,6 +28,7 @@
 ### v0.1.1
 
 - Changed links to use `text-decoration` underline
+- Moving to system fonts
 
 
 ### v0.1.1

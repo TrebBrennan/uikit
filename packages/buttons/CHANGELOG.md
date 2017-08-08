@@ -15,6 +15,7 @@
 
 ## Versions
 
+* [v0.5.1 - Moving to system fonts](v051)
 * [v0.5.0 - Added pancake-react plugin, ES5 main file](v050)
 * [v0.4.0 - Added react component](v040)
 * [v0.3.0 - Fixed px height, added more robust CSS code](v030)
@@ -26,6 +27,11 @@
 
 
 ## Release History
+
+### v0.5.1
+
+- Moved to system fonts
+
 
 ### v0.5.0
 

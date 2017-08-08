@@ -15,6 +15,7 @@
 
 ## Versions
 
+* [v0.1.4 - Moving to system fonts](v013)
 * [v0.1.3 - Exposed GetCSSPropertyBecauseIE publicly, added prefunction, postfunction](v013)
 * [v0.1.2 - Removed core as dependency](v012)
 * [v0.1.1 - 💥 Initial version](v011)
@@ -24,6 +25,11 @@
 
 
 ## Release History
+
+### v0.1.4
+
+- Moving to system fonts
+
 
 ### v0.1.3
 

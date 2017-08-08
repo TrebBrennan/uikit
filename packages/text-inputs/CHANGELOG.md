@@ -15,6 +15,7 @@
 
 ## Versions
 
+* [v0.1.2 - Moving to system fonts](v012)
 * [v0.1.1 - Fixed print background in disabled inputs](v011)
 * [v0.1.0 - 💥 Initial version](v010)
 
@@ -23,6 +24,11 @@
 
 
 ## Release History
+
+### v0.1.2
+
+- Moving to system fonts
+
 
 ### v0.1.1
 

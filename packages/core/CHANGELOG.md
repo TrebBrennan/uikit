@@ -6,12 +6,17 @@
 
 ## Versions
 
+* [v0.1.3 - Moving to system fonts](v013)
 * [v0.1.2 - Fixed newly introduced uikit-svguri bug; ups](v012)
 * [v0.1.1 - Fixed uikit-svguri bug](v011)
 * [v0.1.0 - 💥 Initial version](v010)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## v0.1.3
+
+- Moving to system fonts
 
 
 ## v0.1.2

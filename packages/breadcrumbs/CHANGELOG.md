@@ -15,6 +15,7 @@
 
 ## Versions
 
+* [v0.3.2 - Moving to system fonts](v032)
 * [v0.3.1 - Fixed interdependency with link-list](v031)
 * [v0.3.0 - Added pancake-react plugin, ES5 main file, background repeat](v030)
 * [v0.2.0 - Added react component](v020)
@@ -25,6 +26,11 @@
 
 
 ## Release History
+
+### v0.3.2
+
+- Moving to system fonts
+
 
 ### v0.3.1
 

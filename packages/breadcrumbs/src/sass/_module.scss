@@ -21,7 +21,7 @@
 	margin: 0;
 	color: $uikit-colour-Text;
 	font-size: 14px;
-	font-family: $uikit-font-system;
+	font-family: $uikit-font;
 
 	@include uikit-media( sm ) {
 		display: inline-block;

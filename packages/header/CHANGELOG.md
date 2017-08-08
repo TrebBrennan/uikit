@@ -15,6 +15,7 @@
 
 ## Versions
 
+* [v1.2.1 - Moving to system fonts](v121)
 * [v1.2.0 - Added pancake-react plugin, ES5 main file, added children](v120)
 * [v1.1.0 - Added react component](v110)
 * [v1.0.0 - Removed the side spacing #147](v100)
@@ -25,6 +26,11 @@
 
 
 ## Release History
+
+### v1.2.1
+
+- Moving to system fonts
+
 
 ### v1.2.0
 
