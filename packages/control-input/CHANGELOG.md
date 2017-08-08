@@ -15,7 +15,7 @@
 
 ## Versions
 
-* [v0.3.1 - Moving to system fonts](v031)
+* [v0.3.1 - Moving to system fonts, labels are bold](v031)
 * [v0.3.0 - Added pancake-react plugin, ES5 main file](v030)
 * [v0.2.0 - Added react component](v020)
 * [v0.1.1 - Fixed webkit render bug](v011)
@@ -30,6 +30,7 @@
 ### v0.3.1
 
 - Moving to system fonts
+- Labels are now bold
 
 
 ### v0.3.0
