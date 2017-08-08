@@ -16,15 +16,17 @@
 // HEADINGS/DISPLAY STYLES
 //--------------------------------------------------------------------------------------------------------------------------------------------------------------
 /**
- * Generates .uikit-display-[1…6] classes for display headings.
+ * Generates .uikit-display-[xxs…xxl] classes for display headings.
  *
- * The magic number here reduces the leading for these heading displays, since
+ * The magic number ($i) here reduces the leading for these heading displays, since
  * the body text leading is too large at headings/display sizes.
  *
  * We also set the font-size automatically too. (:
  */
-@for $i from 1 through 6 {
-	.uikit-display-#{$i} {
+$sizes: xxs, xs, sm, md, lg, xl, xxl;
+
+@for $i from 1 through length($sizes) {
+	.uikit-display-#{nth($sizes, $i)} {
 		font-family: $uikit-font;
 		color: $uikit-colour-Text;
 		display: block;
@@ -34,14 +36,14 @@
 		font-weight: bold;
 	}
 
-	p + .uikit-display-#{$i} {
+	p + .uikit-display-#{nth($sizes, $i)} {
 		margin-top: uikit-space( 1 );
 	}
 }
 
 
-.uikit-display-2,
-.uikit-display-3,
-.uikit-display-4 {
+.uikit-display-xs,
+.uikit-display-sm,
+.uikit-display-md {
 	font-weight: normal;
 }

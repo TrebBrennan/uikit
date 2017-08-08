@@ -1,6 +1,6 @@
 {
 	"name": "@gov.au/headings",
-	"version": "0.3.0",
+	"version": "0.4.0",
 	"description": "Class styles for display headings.",
 	"keywords": [
 		"uikit",
