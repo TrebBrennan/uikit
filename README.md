@@ -23,9 +23,7 @@ The GOV.AU UI-Kit is distributed through the [npm](https://www.npmjs.com) ecosys
 Npm requires [node.js](https://nodejs.org/en/) and the UI-Kit needs a node.js 5 or higher.
 
 To install a module make sure you have a `package.json` file in the root of your project folders. (You can generate one by running `yarn init` or `npm init`.)
-Inside your working folder install any module and [pancake](https://github.com/govau/pancake/) will make sure you have all assets ready to use.
-
-Run `yarn add @gov.au/body` or `npm install @gov.au/body` to install the body module. To install several modules just chain them like:
+Inside your working folder install any module. Run `yarn add @gov.au/body` or `npm install @gov.au/body` to install the body module. To install several modules just chain them like:
 
 ```shell
 yarn add @gov.au/body @gov.au/header @gov.au/footer @gov.au/buttons
@@ -36,6 +34,8 @@ or
 ```shell
 npm install @gov.au/body @gov.au/header @gov.au/footer @gov.au/buttons
 ```
+
+💡 [Pancake](https://github.com/govau/pancake/), which is a dependency of our components, will make sure you have all assets ready to use. If you want to change the locations of your assets you can modify the `package.json` file following the [pancake the documentation](https://github.com/govau/pancake/).
 
 💡 You can make the very first install even faster by including the pancake plugins you need:
 
